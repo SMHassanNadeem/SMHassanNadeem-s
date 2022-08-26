@@ -1,0 +1,20 @@
+h1{
+width: 100px;
+color: white;
+font-size: 70px;
+}
+button{
+font-size: 40px;
+border-color: black;
+background-color: black;
+color: white;
+margin-right: 50px; 
+}
+body{
+background-color: black;
+}
+.main{
+display: flex;
+justify-content: center;
+align-item: center;
+}
